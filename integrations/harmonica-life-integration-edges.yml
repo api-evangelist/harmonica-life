@@ -1,0 +1,18 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/harmonica-life/integrations
+- https://zapier.com/apps/hawaya/integrations
+- https://n8n.io/integrations/harmonica-life/
+- https://composio.dev/toolkits/harmonica-life
+- https://monid.ai/tools/harmonica-life
+checked:
+- https://composio.dev/toolkits/harmonica-life
+- https://monid.ai/tools/harmonica-life
+- https://n8n.io/integrations/harmonica-life/
+- https://zapier.com/apps/harmonica-life/integrations
+- https://zapier.com/apps/hawaya/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

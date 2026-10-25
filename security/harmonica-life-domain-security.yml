@@ -1,0 +1,15 @@
+generated: '2026-10-25'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: harmonica.life
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Jan  7 09:47:47 2027 GMT
+  hsts: false
+domains:
+- domain: harmonica.life
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
